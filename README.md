@@ -27,13 +27,15 @@ following command:
 3. Next, install the project requirements:
 
     ```
-    pip install -r requirements.txt
+    cd /home/shi11ien/venv/projectDjango
+    pip3 install -r requirements.txt
     ```
 
 4. Run the project and check that everything’s working.  Navigate to the
 mysite directory and run:
 
     ```
+    cd /home/shi11ien/venv/projectDjango/mysite
     python manage.py runserver
     ```
 
